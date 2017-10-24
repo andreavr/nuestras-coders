@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto',sans-serif;
+}
+
+section {
+  text-align: center;
+}
+
+
+div {
+  display: inline-block;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.body-photos {
+  position: relative;
+  width: 75%
+}
+
+.name {
+  position: absolute;
+  margin-left: 20%;
+  text-align: center;
+}
