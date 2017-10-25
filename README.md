@@ -3,4 +3,4 @@
 ### Objetivo
 Replica el siguiente esquema:
 
-![recursos](assets/images/img-nuestras-coders.jpg)
+![recursos](assets/images/img-nuestras-coders.png)
